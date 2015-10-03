@@ -1,0 +1,12 @@
+MU 3 {One.state[2-17].mix}
+MU 3 {Two.state[2-17].mix}
+MU 3 {Three.state[2-17].mix}
+MU 3 {Four.state[2-17].mix}
+MU 3 {Five.state[2-17].mix}
+MU 3 {Six.state[2-17].mix}
+MU 3 {Seven.state[2-17].mix}
+MU 3 {Eight.state[2-17].mix}
+MU 3 {Nine.state[2-17].mix}
+MU 3 {Zero.state[2-17].mix}
+MU 3 {Oh.state[2-17].mix}
+MU 2 {sil.state[2-17].mix}
